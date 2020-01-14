@@ -1,23 +1,23 @@
-## First Name Last Name
+## Saivamsi Hanumanthu
 
-### Spring 2020 
+### Spring 2020
 
-Data Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
+Computer Science student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in:
 
-- Course 1
+- Human Computer Interaction
 
-- Course 2
+- Entrepreneurial Opportunity Analysis
 
-- Course 3
+- Ethical Hacking
 
-- Course 4
+- Introduction to Data Science
 
 **Hobbies:**
 
-I am _passionate about_: 
+I am _passionate about_:
 
-- Thing 1
+- Autonomous Vehicles
 
-- Thing 2
+- Impacting the world
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- I love reading: <https://www.reddit.com/r/Tinder/>
