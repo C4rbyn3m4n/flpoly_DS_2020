@@ -1,4 +1,4 @@
-## Saivamsi Hanumanthu
+## Saivamsi (Vamsi) Hanumanthu
 
 ### Spring 2020
 
